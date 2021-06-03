@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mad mans plea: or, A sober defence of Captaine Chillintons church. Shewing the destruction and derision ready to fall on all the baptized churches, not baptized with fire, whose forms of religion shall be made ridiculous among men, when the power of righteousness and glorious appearance of God in his people shall come to the nation. By W. E.</title>
+            <author>Erbery, William, 1604-1654.</author>
+         </titleStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84073</idno><idno type="EEBO-CITATION">99866330</idno>
+  <idno type="VID">118601</idno>
+  <idno type="EEBO-PROQUEST">2240968093</idno>
+  
+            <idno type="STC">Wing E3230</idno>
+            <idno type="STC">Thomason E715_17</idno>
+            <idno type="STC">ESTC R207268</idno>
+            <idno type="PROQUEST">99866330</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866330e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84073)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118601)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E715[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mad mans plea: or, A sober defence of Captaine Chillintons church. Shewing the destruction and derision ready to fall on all the baptized churches, not baptized with fire, whose forms of religion shall be made ridiculous among men, when the power of righteousness and glorious appearance of God in his people shall come to the nation. By W. E.</title>
+                  <author>Erbery, William, 1604-1654.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed 1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>W. E. = William Erbery.</note>
+                  <note>Annotation on Thomason copy: "Octob: 28th"; author's initials expanded to W.E."rbury".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118601:1"/>
+            <p>THE Mad Mans PLEA: OR, A SOBER DEFENCE OF Captaine <hi>CHILLINTONS</hi> CHURCH.</p>
+            <p>SHEWING The Destruction and Derision ready to fall on all the Baptized Churches, not Bap<g ref="char:EOLhyphen"/>tized with Fire, whose forms of Religion shall be made ridiculous among men, when the power of righteousness and glorious appearance of God in his people shall come to the Nation.</p>
+            <p>By <hi>W. E.</hi>
+            </p>
+            <q>
+               <p>Thus saith the Lord God, thou shalt drink of thy sisters cup deep and large; thou shalt be laught to scorn, and had in derision, it con<g ref="char:EOLhyphen"/>taineth much,</p>
+               <bibl>
+                  <hi>Ezek. 23.32.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:118601:2"/>
+            <pb n="1" facs="tcp:118601:2"/>
+            <head>To the Lords Fools and Mad Folks.</head>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Speak not now of <hi>mans fools or mad men,</hi> who are in their wits, and wise to do evil, who are neither Christian nor civil, love not truth nor peace, nor Saint, nor State; these I leave to the mercy of God, and Justice of men.</p>
+            <p>Neither speak I of civil matters, but of Mysteries: for as God is a Mystery, so man is a Mystery also; the number of the Beast being the number of a man, <hi>Rev.</hi> 10.7. <hi>Rev.</hi> 13.18. And as <hi>Hagar,</hi> and <hi>Ismael,</hi> with <hi>Sarah</hi> and <hi>Isaac</hi> were Allegories, though such persons were, <hi>Gal.</hi> 4.24. so <hi>Paul</hi> and <hi>Apollo</hi> were presented in a figure 1 <hi>Cor.</hi> 4.6. as in the Captaines person, the Church is pointed at which lies with the whore, in my third Argument hereafter men<g ref="char:EOLhyphen"/>tioned, <hi>Rev.</hi> 17.2.</p>
+            <p>But because I would first comfort the Lords fools and mad folks, let me tell the wise, That fools are the wisest men, and mad men the most sober minded (as babes are the highest men) with God, <hi>Mat.</hi> 11.25. 1 <hi>Cor.</hi> 3.18. 2 <hi>Cor.</hi> 5.13.</p>
+            <p>Ye <hi>suffer fools gladly,</hi> saith <hi>Paul,</hi> such a one was he <hi>to the Church for Christ his sake,</hi> 1 Cor. 4.10. 2 Cor. 11.19.</p>
+            <pb n="2" facs="tcp:118601:3"/>
+            <p> And not onely <hi>Paul,</hi> but <hi>Christ</hi> was counted <hi>mad,</hi> and <hi>be<g ref="char:EOLhyphen"/>sides himself,</hi> by his own friends, or kinsmen, and by the Church of the Jews, <hi>Mark</hi> 3.21. the reason is, the <hi>wisdome of God is foolishness with men,</hi> 1 Cor. 1.18. Act. 26.25.</p>
+            <p>How <hi>Christ</hi> being the <hi>wisdom of God and power of God</hi> should appear to men as a <hi>fool and a madman,</hi> is the Mystery of God manifest in flesh, crucified through weakness, yet justified in spirit, 1 <hi>Tim.</hi> 3.16. 2 <hi>Cor.</hi> 13.4. That is, God the eternal spirit took flesh into union with himself, that he might crucifie flesh to him<g ref="char:EOLhyphen"/>self, and make the man appear as weak as a worm, a <hi>worm and no man,</hi> that God might be All in All, and that nothing might be said to be in the man, but God, <hi>God manifest in flesh.</hi> Psal. 22.6. Joh. 8, 28. Joh. 14.10. 2 Cor. 13.4.</p>
+            <p>This is a Mystery that fleshly and natural men understand not, therefore 'tis foolishness to them, who see not the spirit in man, but when flesh is in strength, wise, and sober: but as the <hi>foolishness of God is wiser then men,</hi> and the wisdome of men foolishness with God; so 'tis no wonder that the prophet of old was called a mad fellow by the King: and he that departeth from iniquity now, ma<g ref="char:EOLhyphen"/>keth himself a prey, or is <hi>counted mad,</hi> as 'tis in the margin, <hi>Isa.</hi> 59.15. 1 <hi>King.</hi> 9.11.</p>
+            <p>But if we be besides our selves, it is to God, and if we be sober 'tis for your cause, 2 <hi>Cor.</hi> 5.13. Mark, when <hi>Paul</hi> ascended to the Mystery of God, he was as a man besides himself; but when he was sober, 'twas onely to condescend to their capacity, in carnal things, in outward order, ordinances, duties, and commands; no higher were the Churches then carried, though some Saints were spiritual and in things above.</p>
+            <p>But the Church (though once a spouse) is now become a harlot joyning with man and with many, yea, the great whore whose flesh must be eaten, tormented, and burnt with fire: men therefore now must be sober to God, but starke mad with the Church, in plaguing, vexing, and destroying all her delicacies, <hi>Rev.</hi> 18.6, 7.</p>
+            <p>Therefore 'tis come to pass, as 'twas with the Church of Israel, <hi>The dayes of visitation are come, the dayes of recompence are come, Israel shall know it: the prophet is a fool, and the spiritual man is mad, for the multitude of thine iniquity and the great hatred,</hi> Hos. 9.7. that is, God being come to visit the Churches
+<pb n="3" facs="tcp:118601:3"/>and recompence them for their iniquity, for their great hatred (of his glorious appearance and people) makes the prophets fools, and spiritual men mad, to harden the Churches the more. For so it follows, <hi>vers.</hi> 8. <hi>the watchman of Ephraim is with my God</hi> (that's said of the spiritual man who waits on God onely) <hi>but the pro<g ref="char:EOLhyphen"/>phet is the snare of a fowler in all his wayes, and hatred in the house of his God;</hi> that is as the prophet is hatred in the Church; so all his words and wayes are snares to catch them; for they have deeply corrupted themselves <hi>&amp;c.</hi> so that all men may see and know them, <hi>vers.</hi> 9.</p>
+            <p>Well, the Prophet then is a fool, and the spiritual man is mad. Truely (friends) I am neither prophet, nor spiritual man, but have the folly and madness of both: 'tis God has made me so for the Chur<g ref="char:EOLhyphen"/>ches sake. For if God makes natural innocents, why not spiritual fools? and mad men too? And if God had not made me a fool, surely I should never have made the Ministers mad.</p>
+            <p>That which I spake of Captaine <hi>Chillingtons</hi> Church or Horse<g ref="char:EOLhyphen"/>guard, was my folly and madness: but as the foolishness of God is wiser then man, so I cannot but observe the wisdome of God in bringing sorth my words at such a time, (a strange provi<g ref="char:EOLhyphen"/>dence) when there was such a tumult and confusion in the Captaines Church, which truely I never heard of, till I had ended my publike afternoons discourse; which was far more peaceable; as also our dispute with the Ministers the week before; though <hi>Politicus</hi> be pleased to present it to the world with manifest lies, as of a mutiny, and tearing womens Kerchiefs in the place, which is most false, as hundreds can witness. Therefore if <hi>Pragmaticus</hi> be turned <hi>Poli<g ref="char:EOLhyphen"/>ticus,</hi> that's in plain English a turn-coat, or a man of the times; let him now as a Christian confess his mistake in the next weekly <hi>Mer<g ref="char:EOLhyphen"/>cury,</hi> else truely, I'll toss him in a Blanket (with the Ministers) in a sheet of paper; then blow him away as dust into the four windes: for the present powers are resolved, that their Ministers shall tell no more lies to the Nation. <hi>Politicus</hi> says that the <hi>Dispute had like to have thrown down the church with the ministers;</hi> that's false again, &amp; not so true as that the Captaines Church might have confounded City and Army; but blessed be God who hath preserved both from fools and flatterers. Indeed folly and madness appeared to men in my proving the Captaines Church not to be of Christ, in these fol<g ref="char:EOLhyphen"/>lowing reasons.</p>
+            <pb n="4" facs="tcp:118601:4"/>
+            <p> First, His Church being not according to the order of the Gos<g ref="char:EOLhyphen"/>pel, because made of a Horse-guard in <hi>Pauls.</hi>
+            </p>
+            <p>Secondly, Because Faith is not there, for you all know <hi>Faith</hi>'s Church to be under <hi>Pauls.</hi>
+            </p>
+            <p>Thirdly, There's no repentance appearing in that Church; for the <hi>English</hi> prelates had their penance, the <hi>Scots</hi> Presbytery a Stool of Repentance, but in Captaine <hi>Chillingtons</hi> Church there's neither <hi>Penance nor stool of Repentance</hi> for men who lye with their maides.</p>
+            <p>Fourthly, There's no salvation or safety there to be found, for two men (as they say) building there on high, fell down, and were like to break their necks.</p>
+            <p>Truely as <hi>Eliah</hi> jeer'd at <hi>Baals</hi> priests; so though I am sad and serious at other times, yet now I could not but jest out these Argu<g ref="char:EOLhyphen"/>ments, because they would not answer mine in earnest. For in sober sadness, I proved in my <hi>Call to the Churches,</hi> that the bap<g ref="char:EOLhyphen"/>tized Churches have no <hi>Gospel-faith</hi> at all, <hi>Joh.</hi> 7.39. for as there is <hi>faith</hi> in Christ, and faith on Christ; so there is the Faith of Christ, the Faith of the Son of God, which was not on promises (as legal, and as our Gospel-believers) but onely on the Father, who was all in all in him, acting all his works, and suggesting or prom<g ref="char:EOLhyphen"/>pting every word that he spake: so do not the Baptized Churches believe, <hi>Joh.</hi> 5.19.30. <hi>Joh.</hi> 8.28. <hi>Joh.</hi> 14 10.</p>
+            <p>Again, as there is faith in dependance, and the Faith of evi<g ref="char:EOLhyphen"/>dence; so the Faith of operation, or the work of faith with power, when the power of God that was on Christ, appears in the Church; this the baptized Churches cannot shew, <hi>Joh.</hi> 14.12. For as there was the gift of Faith proper to the Church, (how else could the <hi>Elders of the Church heal the sick?</hi> &amp;c. 1 Cor. 12.9. Jam. 5.14.) so there was the grace of Faith common to the Saints, called the Mystery of Faith in a pure conscience, which the baptized Churches know not, 1 <hi>Tim.</hi> 3.9.</p>
+            <p>Secondly, There's no repentance appearing in their Churches, for as their prayers are called howlings (on their bed of ease and fulness, <hi>Amos</hi> 6.1, 4, 6. verses) so they assemble themselves for corne and wine, <hi>&amp;c.</hi> that is, for worldly ends the most of them meet, <hi>Hos.</hi> 7.14. yea, all of them return, but not to the most high, <hi>vers.</hi> 16. this shews, there may be a repentance, but not to God, for every re<g ref="char:EOLhyphen"/>pentance
+<pb n="5" facs="tcp:118601:4"/>for sin is not to God; yea, there may be a repentance to God, but not to the most high. I scorn to speak of those who from Independants turn to be Anabaptists; there are some more spiritual and sincere Saints in Baptized Churches, who return, but not to the most high, they are content to lye below in the waters, not to ascend to the fire and spirit of burning that was, and must be againe, <hi>Isa.</hi> 4.4. <hi>they return, but not to the most high,</hi> to the highest discoveries of God, to the <hi>height of Zion</hi> Jer. 31.12. but sit down in their formal doctrines and dippings, whereas <hi>Paul</hi> was ever returning and repenting (that is) <hi>forgetting what is be<g ref="char:EOLhyphen"/>hinde, he was reaching forth to the price of the most high call<g ref="char:EOLhyphen"/>ing of God in Christ,</hi> that is, to attain to the <hi>resurrection of the dead,</hi> Phil. 3.11, 12. For as the resurrection is, when <hi>God shall be All in All,</hi> 1 Cor. 15.28. so the Churches of Christ (living onely in death, in the <hi>dying of the Lord Jesus, baptized into death, and shewing forth his death till he come</hi>) were alwayes repenting, or returning (not from sin onely, but) <hi>to the most high,</hi> to higher discoveries of God daily, <hi>growing up in grace and in the know<g ref="char:EOLhyphen"/>ledge of our Lord;</hi> but when the resurrection comes and the Saints come to the <hi>most high;</hi> then there's no more returning, <hi>repentance is hid from mine eyes,</hi> Hos. 13.14.</p>
+            <p>Thirdly, I said there was no <hi>salvation in baptized Churches;</hi> that which I spake in jest, they may see in earnest very shortly: 'tis not salvation hereafter which I mean, for so some Protestants hold that honest Papists may be saved as well as we; but to be saved from <hi>Babylons</hi> plagues (<hi>death, mourning, famine, and fire,</hi> Rev. 18.8.) to be saved from that fire, from <hi>Babylons</hi> fall, and from those <hi>fearful pangs</hi> prophesied of <hi>Ier.</hi> 30.6, 7. Yea from that <hi>fire and brimstone in which all shall burn who worship the beast or his image,</hi> &amp;c. Rev. 14.9. let the baptized Churches look to it, that there be not much of man, of the <hi>wisdome of man, and power of man</hi> (that's the Beast) in their wayes: and so that their worship have not the <hi>Image of the beast,</hi> when the wisdome of God and power of God appears not in their <hi>dipping,</hi> Rev. 13.18.</p>
+            <p>Truely, I spake not then, nor now, of the Captaines Church in private revenge, but in that publike spirit of vengeance, that is in ten thousand of Saints (though they speak not) against <hi>carnal Churches,</hi> and against ungodly ones, who <hi>separate themselves,
+<pb n="6" facs="tcp:118601:5"/>not having the spirit,</hi> Jud. 19. for is it not ridiculous to build Churches now, when <hi>heaven and earth are shaking,</hi> Joel 3.16? yea <hi>in the day of the great slaughter when the towers fall,</hi> Isa. 30.25? for if the day of the Lord be against every high tower, <hi>Isa.</hi> 2.25. the Towers fall will be on the Churches, as the Kingly power fell on the Prelates, the Parliamentary Tower fell on the Presbyters, and though the Independant and baptized Churches build a Babel Tower to heaven, 'twill fall upon their heads at last.</p>
+            <p n="2">2. Is it not ridiculous for Anabaptists to build a Church at <hi>Pauls</hi> (in the highest place of the City) when <hi>Paul</hi> never owned a Church of Anabaptists or dippers?</p>
+            <p n="3">3. Is it not ridiculous that they cannot see old <hi>Pauls</hi> in a new coat of Free stone, as a visible monument of the folly and madness of Bishops?</p>
+            <p n="4">4. Is it not ridiculous that the Anab aptist Church should expend so much on sticks and seats in a Horse-guard, when living stones and members of Christ want the money?</p>
+            <p n="5">5. How far is this Horse-guard from the order of Gospel-Chur<g ref="char:EOLhyphen"/>ches, who never made a meeting place for themselves, to preach and pray in, but went forth to the world, to the Temple or Synagogues to preach, and to pray in their own houses.</p>
+            <p n="6">6. Answer, ye Anabaptists, Was ever water-baptism in a Gospel<g ref="char:EOLhyphen"/>way without the baptisme of fire before? Did ever any baptize who was not first baptized with the spirit himself? was not the way of baptisme by washing the seet, or going down to the waters up to the anckles, and not by dipping?</p>
+            <p>Againe, how are you buried with Christ by baptisme, when Christs burial was not his going into the earth, and rising suddainly as you do out of the waters, but his burial must be three dayes and three nights, which is a Mystery you know not: let the Ana<g ref="char:EOLhyphen"/>baptists lye so long in the waters, then I'll say they are dipt in<g ref="char:EOLhyphen"/>deed.</p>
+            <p>Lastly, let the world judge if the modesty of Gospel-Churches would suffer so many naked women to be dipt with men? and whether such modest garments as your Confession mention for the the administrator, and for baptized persons to wear, be according to Scripture or sense? seeing all <hi>Iudea came forth to be baptized</hi> of <hi>Iohn;</hi> and three thousand, yea, five thousand in a day baptized by
+<pb n="7" facs="tcp:118601:5"/>the Apostles, how could so many be dipt in a day or in an after<g ref="char:EOLhyphen"/>noon? (for <hi>Peters</hi> Sermon lasted all the morning, and more) and where could so many modest garments be had in a moment? surely all the Taylors and Semsters in Jerusalem could scarce make so ma<g ref="char:EOLhyphen"/>ny in a moneth.</p>
+            <p>But to return to the bufiness of the Church or Horse-guard at <hi>Pauls,</hi> made it seemes to preach and pray in, and to break bread together. Did ever Christ or his Apostles pray in publike with their preachings? were not prayers as private and proper to the Church, as fellowship and breaking of bread? <hi>Act.</hi> 2.42. Did not <hi>Peter</hi> and <hi>John</hi> go up to the Temple to preach, but to their own company to pray? <hi>Act.</hi> 4.23. therefore the whole Church that was praying for <hi>Peter,</hi> met in <hi>Maries</hi> house, where <hi>many were ga<g ref="char:EOLhyphen"/>thered together,</hi> Act. 12.5, 12. yea, when there was three thou<g ref="char:EOLhyphen"/>sand, afterward five thousand in the Church, the Church met to pray, and break bread onely in private, from house to house, or at home, as the margin reads, <hi>Act.</hi> 2.46. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Neither was it fear of persecution (or want of liberty of conscience) that made them to pray in private; for they were not afraid to preach in pub<g ref="char:EOLhyphen"/>like, in the Temple, and Synagogues,</p>
+            <p>Therefore though men may say, that my reasons before were but <hi>ridiculous,</hi> it was because their <hi>religion</hi> is so, and God will make it a <hi>derision</hi> to all, because by their carnal ordinances and dippings, they not onely captivate the spirits of the Saints among them, but crucifie Christ also, and keep under that spirit of glory which is breaking forth in the Saints of the most high, in whom the Lord sits; and as he that sits in heaven <hi>laughs them to scorn;</hi> yea, the Lord shall have them <hi>in derision,</hi> Psal. 2.4. so he shall <hi>laugh at their calamity, and mocke when their fear cometh,</hi> Prov. 1.26. <hi>For they return, but not to the most high, they are as a deceit<g ref="char:EOLhyphen"/>ful bow. Their princes shall fall by the sword, for the rage of their tongue, this shall be their derision in the land of Egypt,</hi> Hos. 7.16.</p>
+            <p>This land (though the house of bondage) shall one day break forth into singing; and smile at those empty forms of Religion, when the power of righteousness appears, and all their oppressors perish, <hi>Psal.</hi> 72.4, 7, 11. verses.</p>
+            <pb n="8" facs="tcp:118601:6"/>
+            <p> No such oppressor as he who embondageth the spirit of liberty, even the spirit of the Lord Jesus, who is for the salvation of men, and not for the destruction of any, but of him who is the destroy<g ref="char:EOLhyphen"/>er, <hi>Rev.</hi> 11.18. <hi>Luke</hi> 9.56.</p>
+            <p>Therefore 'tis said he will <hi>laugh at their calamity,</hi> &amp;c. for the Churches fall will be like Babylons, with <hi>great joy in Heaven, Rev.</hi> 18.20.</p>
+            <p>Babylons last fall will be in the fall of these last <hi>Churches,</hi> who shall be <hi>thrown down</hi> not by man (as former Churches have been) but by the hand of an Angel, that is, by the mighty appearance of God in his people, <hi>Rev.</hi> 18. Neither is it by controversie (as before) nor by disputes (as now) but by derision and scorne, they shall all sink as a stone in the sea, or like a great milstone in mighty waters, <hi>Exod.</hi> 15.5. <hi>Jer.</hi> 51.63. <hi>Rev.</hi> 18.21. compared.</p>
+            <p>Therefore, <hi>Go ye forth of Babylon, flee from the land of the Chaldeans with a voice of singing, declare ye, tell this, utter it, even to the end of the earth, say ye, The Lord hath redeemed his servant Iacob,</hi> Isa. 48.20. The Lords servant is the man who waits on God, and for God onely; these (though captives now) shall be redeemed from forms and flesh, and sing at the fall of both.</p>
+            <p>Lastly, If <hi>madness be in the heart of every man,</hi> Eccles, 9.3. then this is the <hi>Island of great Bedlam,</hi> and (as a great man of the Sea said, when he heard of the Parliament dissolved) <hi>Come, let's all be mad together.</hi>
+            </p>
+            <p>Truely there's a <hi>cup of trembling</hi> coming for all the <hi>Nations</hi> to drink, and for this first, for <hi>Iudah and Ierusalem,</hi> Jer. 25.17, 18. and <hi>if they refuse to take the cup at thine hand to drink, then shalt thou say unto them, Thus saith the Lord of hosts, Ye shall certainly drink,</hi> vers. 28. <hi>drink and be moved, and be mad because of the sword I shall send among them,</hi> vers. 16. As the sword is the spirit of burning, and Baptisme of fire: so the cup is that golden cup of abominations in the hand of the whore, who is gorgeously arayed with precious stones, and Saints with glorious Ordinances. O this is the golden cup full of filthiness and fornica<g ref="char:EOLhyphen"/>tions of the whore, whose flesh or forms of doctrine and worship as it must be burnt with fire: so the Churches, especially those Bap<g ref="char:EOLhyphen"/>tized
+<pb n="9" facs="tcp:118601:6"/>ones are the woman that sits on many waters, <hi>Rev.</hi> 17.1, 2, 3, 4.</p>
+            <p>But where's the <hi>Sober Defence</hi> of Captaine <hi>Chillingtons</hi> Church?</p>
+            <p>I answer, first, 'Twas well defended by souldiers. Again, there's now a <hi>Sober Defence</hi> of Citizens or Holderds.</p>
+            <p>Secondly, The destruction that is coming on the Church from God, is their <hi>Defence</hi> by man, for man is sure to defend what God will stroy.</p>
+            <p>Thirdly, the purest Saints and Primitive Churches sought no De<g ref="char:EOLhyphen"/>fence but God, though man would destroy them.</p>
+            <p>Lastly, the Church coming out of Babylon, would not have a guard of Horse to defend them, as the Captains Church or horse<g ref="char:EOLhyphen"/>guard had, <hi>Ezra</hi> 8.22. <hi>I was ashamed to require of the King a band of souldiers and horsemen to help us against the enemy in the way, because we had spoken to the King, saying, The hand of our God is upon all for good that seek him; but his power and his wrath is against all them that forsake him.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
